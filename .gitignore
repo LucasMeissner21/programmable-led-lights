@@ -1,0 +1,17 @@
+bin/*
+.vscode/*
+*.exe
+*.json
+*/bin/*
+*/.vscode/*
+*a.out
+.DS_Store
+*.dSYM/
+*/source/*.dSYM
+*.hex
+*.lst
+*.err
+*.docx
+*.pptx
+*.mov
+/video_link
